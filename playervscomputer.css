@@ -1,0 +1,40 @@
+h1{
+  width: 1920px/2;
+  height: 30px;
+  color: yellow ;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-family: 'Press Start 2P', cursive;
+}
+h2{
+	height: 15px;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+
+}
+p{
+	font-family: 'Press Start 2P', cursive;
+	color: white;
+	text-decoration: none;
+	height: 18px;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+
+}
+body{
+	background: url(https://torange.biz/photo/25/IMAGE/hearts-heart-backgrounds-wisps-black-background-25906.jpg);
+	background-size: 1920px 1080px;
+	text-align: center;
+}
+a{
+	font-family: 'Press Start 2P', cursive;
+	color: white;
+	text-decoration: none;
+}
